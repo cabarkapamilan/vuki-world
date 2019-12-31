@@ -1,2 +1,2 @@
 # vuki-world
-probna verzija
+Ovo je branch posvećen Vukiju i Lenki 
